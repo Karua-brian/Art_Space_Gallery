@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Art Space Gallery</string>
+
+    <string name="art_artist_1">El Anatsui (Ghana)</string>
+    <string name="art_1"> Dusasa II</string>
+    <string name="year_1">(2007)</string>
+    <string name="desc_1">African mural</string>
+
+    <string name="art_artist_2">Wangechi Mutu (Kenya)</string>
+    <string name="art_2">The NewOnes, Will Free Us </string>
+    <string name="year_2">(2019)</string>
+    <string name="desc_2">African mural</string>
+
+    <string name="art_artist_3">Yinka Shonibare (Nigeria/UK)</string>
+    <string name="art_3">The Swing (after Fragonard)</string>
+    <string name="year_3">(2001)</string>
+    <string name="desc_3">African mural</string>
+
+    <string name="art_artist_4">Ablade Glover (Ghana)</string>
+    <string name="art_4">Accra Market</string>
+    <string name="year_4">(1989)</string>
+    <string name="desc_4">African mural</string>
+
+    <string name="art_artist_5">Cheri Samba (Democratic Republic of the Congo)</string>
+    <string name="art_5">J’accuse</string>
+    <string name="year_5">(1996)</string>
+    <string name="desc_5">African mural</string>
+
+    <string name="art_artist_6">Ibrahim El-Salahi (Sudan)</string>
+    <string name="art_6">The Wedding of the River and the Sea</string>
+    <string name="year_6">(1969)</string>
+    <string name="desc_6">African mural</string>
+
+    <string name="art_artist_7">William Kentridge (South Africa)</string>
+    <string name="art_7">Ubu Tells the Truth</string>
+    <string name="year_7">(1997)</string>
+    <string name="desc_7">African mural</string>
+
+    <string name="art_artist_8">Skunder Boghossian (Ethiopia)</string>
+    <string name="art_8">Abstract Composition</string>
+    <string name="year_8">(1972)</string>
+    <string name="desc_8">African mural</string>
+
+    <string name="art_artist_9">Nandipha Mntambo (South Africa)</string>
+    <string name="art_9">The Sweet Life</string>
+    <string name="year_9">(2005)</string>
+    <string name="desc_9">African mural</string>
+
+    <string name="art_artist_10">Hassan Hajjaj (Morocco)</string>
+    <string name="art_10">Kesh Angels</string>
+    <string name="year_10">(2010)</string>
+    <string name="desc_10">African mural</string>
+
+    <string name="previous_btn">Previous</string>
+    <string name="next_btn">Next</string>
+</resources>
